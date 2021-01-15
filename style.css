@@ -19,6 +19,10 @@ body{
     margin: auto;
 }
 
+.green{
+    color: #0fec73;
+}
+
 /* ============== Titles ============== */
 h2{
     margin-top: 3.2rem;
@@ -29,7 +33,7 @@ h2{
 
 /* ============== Header ============== */
 header{
-    background: linear-gradient(#6467a0, #AD70AB);
+    background: linear-gradient(#004044, #01585e);
     padding: 2rem 0 10rem;
     text-align: center;
 }
@@ -48,6 +52,7 @@ header{
     color: white;
     margin-top: 0;
 }
+
 /* =============== Cards ============== */
 .card{
     background-color: white;
@@ -70,7 +75,7 @@ header{
 }
 
 .card.total{
-    background: #64a06e;
+    background: #12a454;
     color: white;
 
 }
