@@ -1,9 +1,9 @@
 <h1 align="center">Finance Maratona Discover 💰</h1>
 <img src=".github/cover-maratona-discover.png" alt="Wallpaper Maratona Discover">
 
-## Projeto
+## Projeto 💻
 
-O dev.finance$ é uma aplicação de controle de finanças. Este é um projeto desenvolvindo durante a Maratona Discover, realizada pela **[@Rocketseat](https://github.com/Rocketseat)** ministradas pelo **[Mayk Brito](https://github.com/maykbrito)** durante os dias 14, 21, 28 de janeiro e 04 de fevereiro.
+O dev.finance$ é uma aplicação de controle de finanças. Este é um projeto desenvolvindo durante a Maratona Discover, realizada pela **[@Rocketseat](https://github.com/Rocketseat)** e ministradas pelo **[Mayk Brito](https://github.com/maykbrito)** durante os dias 14, 21, 28 de janeiro e 04 de fevereiro.
 
 ## Tecnologias 🛠️
 
