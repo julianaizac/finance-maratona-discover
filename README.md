@@ -1,5 +1,4 @@
 <h1 align="center">Finance Maratona Discover 💰</h1>
-<img src=".github/cover-maratona-discover.png" alt="Wallpaper Maratona Discover">
 
 ## Projeto 💻
 
